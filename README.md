@@ -6,7 +6,12 @@ utilizando:<br>
 *SQLite*,<br>
 *JWT Bearer*,<br>
 *Paginação*,<br>
+*FluentMigratorCore*,<br>
 *Testes - xUnit*<br>
+
+**Recursos**
+* Importar contatos por arquivo .csv
+* Emportar contatos por arquivo .csv
 
 Ao rodar pela primeira vez a aplicação e o banco de dados estiver vazio, ela vai realizar uma persistência de dados inicial, para visualização e testes.
 

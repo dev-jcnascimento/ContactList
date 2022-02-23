@@ -1,3 +1,5 @@
+## O que é HATEAOS?
+
 ## SOBRE O PROJETO
 Trata-se de uma API para Cadastro de Contatos, Agenda e Empresas desenvolvida em:<br>
 **Migrado do .Net 5 para .NET 6**<br>

@@ -7,9 +7,11 @@ utilizando:<br>
 *JWT Bearer*,<br>
 *Paginação*,<br>
 *FluentMigratorCore*,<br>
-*Testes - xUnit*<br>
+*xUnit*<br>
 
 **Recursos**
+
+* Testes Unitários
 * Importar contatos por arquivo .csv
 * Emportar contatos por arquivo .csv
 * HATEOAS

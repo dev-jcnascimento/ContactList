@@ -12,6 +12,7 @@ utilizando:<br>
 **Recursos**
 * Importar contatos por arquivo .csv
 * Emportar contatos por arquivo .csv
+* HATEOAS
 
 Ao rodar pela primeira vez a aplicação e o banco de dados estiver vazio, ela vai realizar uma persistência de dados inicial, para visualização e testes.
 
